@@ -1,4 +1,4 @@
-# code-with-quarkus
+# hesselmann-it
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
